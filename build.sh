@@ -1,0 +1,1 @@
+docker build -t thanhlcm90/php7-lavarel .
